@@ -32,3 +32,7 @@ export default {
 ## 参考サイト
 
 https://zenn.dev/7oh/scraps/98d5cdcceb9bd8
+
+## script を書くとエラー (crxjs 側？）)
+
+https://github.com/crxjs/chrome-extension-tools/issues/836
